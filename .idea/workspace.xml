@@ -47,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1585828190215</updated>
-      <workItem from="1585828191368" duration="11877000" />
+      <workItem from="1585828191368" duration="16025000" />
     </task>
     <task id="LOCAL-00001" summary="new repository">
       <created>1585828283764</created>
@@ -56,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585828283764</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="lesson 06">
+      <created>1585843543284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585843543284</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,6 +84,7 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="new repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="new repository" />
+    <MESSAGE value="lesson 06" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 06" />
   </component>
 </project>
